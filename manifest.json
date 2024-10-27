@@ -20,8 +20,7 @@
         "my-variable": {
             "value": "#131313",
             "name": {
-                "en": "The strongest",
-                "ru": "Сильнейший"
+                "en": "The strongest"
             }
         }
     },
