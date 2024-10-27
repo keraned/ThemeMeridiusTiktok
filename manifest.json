@@ -1,0 +1,33 @@
+{
+	"version": "1.0.0",
+	"compatibility": "3.1.3",
+	"id": "tiktok",
+	"description": "Тема схожая с соцсетью TikTok",
+
+    "repository": { 
+        "username": "Keraned",
+        "name": "ThemeMeridiusTikTok",
+        "branch": "main" 
+    },
+
+	"modules": [],
+	"accent": {
+        "primary": "#161617ff",
+        "secondary": "#74f0edff"
+    },
+
+    "variables": {
+        "my-variable": {
+            "value": "#131313",
+            "name": {
+                "en": "The strongest",
+                "ru": "Сильнейший"
+            }
+        }
+    },
+
+	"author": {
+		"name": "Стройков Олег",
+		"contact": "тг - @Olebzhick"
+	}
+}
